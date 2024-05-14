@@ -1,0 +1,7 @@
+{
+    "DatasetName": "CATS",
+    "ASubDirectory": "rgb",
+    "BSubDirectory": "ir",
+    "TrainTestRatio": [0.7, 0.3],
+    "LoadOnMemory": true
+}

@@ -1,0 +1,3 @@
+CATS dataset distributed by the VIMS lab, UNIVERSITY OF DELAWARE and can be downloaded from https://vims.cis.udel.edu/cats/index.html
+
+Downloaded files can be used with the `cats_dataset_creator.m` to generate the `ir` and `rgb` image pairs used in this study.
